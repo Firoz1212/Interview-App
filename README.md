@@ -1,7 +1,6 @@
-# Interview-App
-it is interview preparation application develop using angular .
+# InterviewApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.15.
 
 ## Development server
 
